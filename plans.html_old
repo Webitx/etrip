@@ -1,0 +1,203 @@
+<html>
+
+<head>
+
+  <title>eTripProtect - Rest Insured</title>
+  <link rel="stylesheet" href="./css/style.css">	
+    <style type="text/css">
+<!--
+.style1 {
+	font-size: 16px;
+	font-weight: bold;
+}
+.style2 {font-size: 12px}
+-->
+    </style>
+</head>
+
+<body bgcolor=9E9E9E marginwidth=0 topmargin=0 bottommargin=0 marginheight=0 leftmargin=0>
+
+<center>
+
+<br>
+
+<table background="images/tablebg.gif">
+
+<tr>
+
+	<td align="center" width=750>
+
+		<table>
+
+		<tr>
+
+			<td width=150 height=100><img src="images/etripprotect.gif"></td>
+
+			<td valign="top" align="right" width=500 height=100><a href="simpleindex.html"><img src="images/simplified.gif" border=0></a><a href="traditionalindex.html"><img src="images/traditional.gif" border=0></a></td>
+
+		</tr>
+
+		</table><br>
+
+		<table cellspacing=0 cellpadding=0>
+
+		<tr>
+
+			<td align="right" width=720><a href="index.html"><img src="images/home-off.gif" border=0></a><a href="plans.html"><img src="images/plans-on.gif" border=0></a><a href="about.html"><img src="images/about-off.gif" border=0></a><a href="privacy.html"><img src="images/privacy-off.gif" border=0></a><a href="contact.html"><img src="images/contact-off.gif" border=0></a></td>
+
+		</tr>
+
+		</table>
+
+		<table bgcolor=D3D3D3 cellspacing=0 cellpadding=0>
+
+		<tr>
+
+			<td valign="top" width="32" height="25">&nbsp;</td>
+
+		</tr>
+
+		<tr>
+
+			<td valign="top" width=720 align="center">
+
+				<table width=670 bgcolor=D3D3D3 cellpadding=5>
+
+					<td><table border=1 cellpadding=2>
+
+						<tr bgcolor=9E9E9E>
+
+							<td><b>Plan Name</b></td>
+
+							<td><b>Designed For</b></td>
+
+							<td><b>Highlights</b></td>
+
+						</tr>
+
+						<tr bgcolor="white">
+							<td class="style2">
+							<a href="https://purchase.imglobal.com/Quote/Patriot_Plus/pre-quote?imgac=540116" target=_blank>PatriotAmerica® Plus</a>
+							<br><br>
+							<a href="https://quote.hccmis.com/atlastravel/?referid=28031&language=en-US" target=_blank>Atlas Travel®</a>							
+							</td>
+
+							<td class="style2">Visitors to the United States.</td>
+
+							<td class="style2">
+							    Accident/Sickness Medical, Emergency Medical Evacuation and Assistance coverage.
+							    <br><br>
+							    <i>United HealthCare PPO network</i>
+								<br><br>
+							    <b>Underwriter:</b>
+								<br>
+								<i>Patriot America® Plus-Sirius – IMG</i>
+								<br>
+								<i>Atlas Travel ®-Lloyd’s – WorldTrips</i>
+							</td>
+						</tr>
+						<tr bgcolor="white">
+							<td class="style2">
+							<a href="https://etripprotect.pgh.partners/" target=_blank>Student Health Insurance</a>
+							</td>
+
+							<td class="style2">International Students or Scholars studying in the United States or outside their home country.</td>
+
+							<td class="style2">
+							    Medical insurance which meets or exceeds the requirements set by the Department of State and U.S. Citizenship and Immigration Services Widely accepted by U.S. universities, colleges and high schools.
+							    <br><br>
+							    Please refer to specific plan for benefits details.
+								<br><br>
+							    <b>Underwriter:</b>
+								<br>
+							    H&W Indemnity - UHC
+							</td>
+						</tr>
+						<tr bgcolor="white">
+							<td class="style2">
+							<a href="https://purchase.imglobal.com/Quote/Patriot/pre-quote?imgac=540116" target=_blank>Patriot Travel Medical Insurance®</a>
+							<br><br>
+							<a href="https://quote.hccmis.com/atlastravel/?referid=28031&language=en-US" target=_blank>Atlas Travel®</a>					
+							</td>
+
+							<td class="style2">People traveling or living outside the United States and/or outside their home country.</td>
+
+							<td class="style2">
+							    Flexible, international medical insurance plans for short or long term.. Offers accident and sickness coverage, up to $2,000,000.
+								<br><br>
+							    <b>Underwriter:</b>
+								<br>
+								<i>Patriot Travel Medical Insurance®Sirius – IMG</i>
+								<br>
+								<i>Atlas Travel ®-Lloyd’s – WorldTrips</i>
+							</td>
+						</tr>						
+						<tr bgcolor="white">
+							<td class="style2">
+							<a href="https://quote.hccmis.com/atlasgroup/?referid=28031&language=en-US" target=_blank>Atlas Group®</a>
+							<br><br>
+							<small>*Please contact us if you need to customize your group plan benefits</small>
+							</td>
+
+							<td class="style2">Groups traveling to and from the United States.</td>
+
+							<td class="style2">
+							    Low cost international medical insurance plan choices for groups.
+								<br><br>
+							    <b>Underwriter:</b>
+								<br>
+								<i>Atlas Travel ®-Lloyd’s – WorldTrips</i>
+							</td>
+						</tr>		
+						<tr bgcolor="white">
+							<td class="style2">
+							<a href="https://www.imglobal.com/img-producer-insurance-plans?IMGAC=540116&app_method=2&svi=1&productType=trip" target=_blank>iTravelInsured - Travel Insurance</a>
+							</td>
+
+							<td class="style2">US Residents</td>
+
+							<td class="style2">
+							    Comprehensive trip cancellation/interruption, travel accident, medical, baggage, and medical evacuation insurance and emergency assistance.
+								<br><br>
+								<i>Now available: CFAR, IFAR Benefit Upgrade.</i>
+								<br><br>
+							    <b>Underwriter:</b>
+								<br>
+								<i>US Fire – IMG</i>
+							</td>
+						</tr>							
+						</table>
+
+				</table><br></td>
+
+		</tr>
+
+		</table>
+
+		<br>
+
+	</td>
+
+</tr>
+
+</table>
+
+</center>
+
+<br>
+
+<script src="http://www.google-analytics.com/urchin.js " type="text/javascript">
+
+</script>
+
+<script type="text/javascript">
+
+_uacct = "UA-769677-1";
+
+urchinTracker();
+
+</script>
+
+</body>
+
+</html>

@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^sunperfect.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www.sunperfect.com$
+RewriteRule (.*)$ http://www.webitx.com [R=301,L]
+RewriteCond %{HTTP_HOST} ^dnpint.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www.dnpint.com$
+RewriteRule (.*)$ http://www.webitx.com [R=301,L]

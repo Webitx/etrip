@@ -1,0 +1,10 @@
+RewriteEngine on
+RewriteCond %{HTTP_USER_AGENT} "android|blackberry|googlebot-mobile|iemobile|ipad|iphone|ipod|opera mobile|palmos|webos" [NC]
+RewriteRule ^$ https://www.etripprotect.com/ [L,R=302]
+
+RewriteEngine on
+RewriteCond %{HTTP} on
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteRule ^(.*)$ https://www.etripprotect.com/$1 [R=301,L]
+

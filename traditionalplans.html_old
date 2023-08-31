@@ -1,0 +1,210 @@
+﻿<html>
+
+<head>
+
+	<title>eTripProtect - Rest Insured</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <style type="text/css">
+<!--
+.style1 {
+	font-size: 16px;
+	font-weight: bold;
+}
+.style2 {font-size: 12px}
+-->
+    </style>
+</head>
+
+<body bgcolor=9E9E9E marginwidth=0 topmargin=0 bottommargin=0 marginheight=0 leftmargin=0>
+
+<center>
+
+<br>
+
+<table background="images/tablebg.gif">
+
+<tr>
+
+	<td align="center" width=750>
+
+		<table>
+
+		<tr>
+
+			<td width=150 height=100><img src="images/etripprotect.gif"></td>
+
+			<td valign="top" align="right" width=500 height=100><a href="simpleindex.html"><img src="images/simplified.gif" border=0></a><a href="index.html"><img src="images/english.gif" border=0></a></td>
+
+		</tr>
+
+		</table><br>
+
+		<table cellspacing=0 cellpadding=0>
+
+		<tr>
+
+			<td align="right" width=720><a href="traditionalindex.html"><img src="images/home-off.gif" border=0></a><a href="traditionalplans.html"><img src="images/plans-on.gif" border=0></a><a href="traditionalabout.html"><img src="images/about-off.gif" border=0></a><a href="traditionalprivacy.html"><img src="images/privacy-off.gif" border=0></a><a href="traditionalcontact.html"><img src="images/contact-off.gif" border=0></a></td>
+
+		</tr>
+
+		</table>
+
+		<table bgcolor=D3D3D3 cellspacing=0 cellpadding=0>
+
+		<tr>
+
+			<td valign="top" width="32" height="25">&nbsp;</td>
+
+		</tr>
+
+		<tr>
+
+			<td valign="top" width=720 align="center">
+
+				<table width=670 bgcolor=D3D3D3 cellpadding=5>
+
+					<td><table border=1 cellpadding=2>
+
+						<tr bgcolor=D3D3D3>
+
+							<td width="104" class="style2"><b>計劃名稱</b></td>
+
+						  <td width="152" class="style2"><b>保險適用於</b></td>
+
+						  <td width="370" class="style2"><b>保險特色</b></td>
+					    </tr>
+						<tr bgcolor="white">
+							<td class="style2">
+							訪美系列
+							<br><br>
+							<a href="https://purchase.imglobal.com/Quote/Patriot_Plus/pre-quote?imgac=540116" target=_blank>PatriotAmerica® Plus</a>
+							<br><br>
+							<a href="https://quote.hccmis.com/atlastravel/?referid=28031&language=en-US" target=_blank>Atlas Travel®</a>														
+							</td>
+
+						  <td class="style2">來美探親訪問之國際旅客</td>
+
+						    <td><span class="style2">來美探親訪問之國際旅客，保期可續長達24個月。本保險以低廉費用提供優質病傷意外保障。在PPO醫療網內涵蓋大量醫生、醫院，並支付醫療費用，您只須負擔扣減額部分。
+							    <br><br>
+					            <b>保險公司:</b>
+							    <br>
+								<i>Patriot America® Plus-Sirius – IMG</i>
+								<br>
+								<i>Atlas Travel ®-Lloyd’s – WorldTrips</i>
+					        </span>
+					      <center class="style2"></center></td>
+		                </tr>
+						<tr bgcolor="white">
+							<td class="style2">
+							留學系列
+							<br><br>
+							<a href="https://etripprotect.pgh.partners/" target=_blank>Student Health Insurance</a>											
+							</td>
+
+						  <td class="style2">外國學生或學者來美國留學</td>
+
+						    <td><span class="style2">保險福利 符合或超過以下機構的要求標準：美國移民局，美國國際學生組織， 及大多數美國學校國際學生留學部等。
+							    <br><br>
+					            <b>保險公司:</b>
+								<br>
+							    H&W Indemnity - UHC
+					        </span>
+					      <center class="style2"></center></td>
+		                </tr>
+						<tr bgcolor="white">
+							<td class="style2">
+							美國以外
+							<br><br>
+							<a href="https://purchase.imglobal.com/Quote/Patriot/pre-quote?imgac=540116" target=_blank>Patriot Travel Medical Insurance®</a>
+							<br><br>
+							<a href="https://quote.hccmis.com/atlastravel/?referid=28031&language=en-US" target=_blank>Atlas Travel®</a>												
+							</td>
+
+						  <td class="style2">適用於到美国國以外的國家旅遊訪問， 或居住</td>
+
+						    <td><span class="style2">為到美國以外旅遊訪問提供醫療費用支付及緊急醫療遷離費用等必備的保障。最高醫療福利可達美金2,000,000， 短期或長期均適用。
+							    <br><br>
+					            <b>保險公司:</b>
+								<br>
+								<i>Patriot Travel Medical Insurance®Sirius – IMG</i>
+								<br>
+								<i>Atlas Travel ®-Lloyd’s – WorldTrips</i>
+					        </span>
+					      <center class="style2"></center></td>
+		                </tr>
+						<tr bgcolor="white">
+							<td class="style2">
+							團體保險
+							<br><br>
+							<a href="https://quote.hccmis.com/atlasgroup/?referid=28031&language=en-US" target=_blank>Atlas Group®</a>
+							<br><br>
+							<small>*Please contact us if you need to customize your group plan benefits</small>							
+							</td>
+
+						  <td class="style2">團體來美訪問或自美國前往美國以外國家</td>
+
+						    <td><span class="style2">多種扣減額，醫療福利選擇。最少5人起。
+							    <br><br>
+					            <b>保險公司:</b>
+								<br>
+                                <i>Atlas Travel ®-Lloyd’s – WorldTrips</i>
+					        </span>
+					      <center class="style2"></center></td>
+		                </tr>	
+						<tr bgcolor="white">
+							<td class="style2">
+							旅費保障險
+							<br><br>
+							<a href="https://www.imglobal.com/img-producer-insurance-plans?IMGAC=540116&app_method=2&svi=1&productType=trip" target=_blank>iTravelInsured - Travel Insurance</a>
+							</td>
+
+						  <td class="style2">美國居民在美國境內或者到國外旅行</td>
+
+						    <td><span class="style2">美國居民在美國境內或到世界各地旅遊。保障您的旅遊投資,醫療/遷移費用及行李等。靈活的保險限額選擇。包括熱門保險項目"因任何原因取消旅行"，"因任何原因中斷旅行"。
+							    <br><br>
+					            <b>保險公司:</b>
+								<br>
+                                <i>US Fire – IMG</i>
+					        </span>
+					      <center class="style2"></center></td>
+		                </tr>						
+						<tr>
+						<td class="style2" colspan=3>
+							以上中文介紹僅供參考，具體內容請以英文原件為準。
+						</td>
+						</tr>
+						</table>
+ 					</td>    
+				</table>
+			</td>
+		</tr>
+		</table>
+
+		<br>
+
+	</td>
+
+</tr>
+
+</table>
+
+</center>
+
+<br>
+
+<script src="http://www.google-analytics.com/urchin.js " type="text/javascript">
+
+</script>
+
+<script type="text/javascript">
+
+_uacct = "UA-769677-1";
+
+urchinTracker();
+
+</script>
+
+</body>
+
+</html>
